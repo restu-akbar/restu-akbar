@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi 👋, I'm Restu</h1>
-<h3 align="center">A long life learner from Bandung, Indonesia</h3>
+<h3 align="center">A lifelong learner from Bandung, Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"</img>
 
 
@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently studying on **Politeknik Negeri Bandung**
 
-- 🌱 I’m very interested in learning **Backend Development (Laravel and ExpressJs) and Data Analysis**
+- 🌱 I’m very interested in learning **Backend Development and Data Analysis**
 
 - 💬 Lets discuss everything about **Web Programming, Database, and Data Analysis**
 
@@ -36,9 +36,11 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353498/bootstrap.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+<a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/373872/nestjs.svg" alt="nestjs" width="40" height="40"/> </a>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/330398/express.svg" alt="express" width="40" height="40"/> </a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" alt="laravel" width="40" height="40"/> </a>
+<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353980/kotlin.svg" alt="kotlin" width="40" height="40"/> </a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
