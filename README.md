@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"</img>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akbarst3&label=Profile%20views&color=0e75b6&style=flat" alt="akbarst3" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=restu-akbar&label=Profile%20views&color=0e75b6&style=flat" alt="restu-akbar" /> </p>
 
 <p align="left"> <a href="https://instagram.com/_akbarst" target="blank"><img src="https://img.shields.io/twitter/follow/akbarst_?logo=twitter&style=for-the-badge" alt="akbarst_" /></a> </p>
 
@@ -14,7 +14,7 @@
 
 - 💬 Lets discuss everything about **Web Programming, Database, and Data Analysis**
 
-- 👨‍💻 My mini portfolio **https://akbarst3.github.io/web-portfolio/** 
+- 👨‍💻 My mini portfolio **https://restu-akbar.github.io/web-portfolio/** 
 
 - 📫 How to reach me **restu.akbar.03.04@gmail.com**
 
@@ -54,8 +54,8 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akbarst3&show_icons=true&locale=en&layout=compact" alt="akbarst3" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=restu-akbar&show_icons=true&locale=en&layout=compact" alt="restu-akbar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akbarst3&show_icons=true&locale=en" alt="akbarst3" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=restu-akbar&show_icons=true&locale=en" alt="restu-akbar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akbarst3&" alt="akbarst3" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=restu-akbar&" alt="restu-akbar" /></p>
